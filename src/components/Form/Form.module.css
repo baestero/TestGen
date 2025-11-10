@@ -1,0 +1,24 @@
+.form {
+  max-width: 1200px;
+  margin: 0 auto;
+
+  border-radius: 16px;
+  background: #fff;
+}
+
+.form h1 {
+  font-size: 1.25rem;
+  font-weight: 500;
+  color: #000;
+}
+
+.formContainer {
+  padding: 20px;
+}
+
+.titleContainer {
+  background-color: #f5f9fe;
+  padding: 20px;
+  border-radius: 16px 16px 0px 0;
+}
+
